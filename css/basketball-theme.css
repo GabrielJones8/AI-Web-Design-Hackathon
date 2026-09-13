@@ -1,0 +1,67 @@
+:root {
+  --bs-primary: #c6531f;
+  --bs-primary-rgb: 198, 83, 31;
+  --bs-warning: #e4772d;
+  --bs-warning-rgb: 228, 119, 45;
+  --bs-success: #355e3b;
+  --bs-success-rgb: 53, 94, 59;
+  --bs-dark: #211b18;
+  --bs-dark-rgb: 33, 27, 24;
+  --bs-light: #fff8ed;
+  --bs-light-rgb: 255, 248, 237;
+  --bs-body-bg: #fff8ed;
+  --bs-body-color: #2d211b;
+  --bs-primary-bg-subtle: #f6dfd0;
+  --bs-warning-bg-subtle: #ffe5c8;
+  --bs-success-bg-subtle: #dce9dd;
+  --bs-info-bg-subtle: #f3e8d7;
+  --bs-danger-bg-subtle: #f8ddd1;
+}
+
+/* Bootstrap's primary utility is the site's basketball leather orange. */
+.navbar.bg-primary {
+  --bs-navbar-color: rgba(255, 255, 255, .82);
+  --bs-navbar-hover-color: #fff;
+  --bs-navbar-disabled-color: rgba(255, 255, 255, .5);
+  --bs-navbar-active-color: #fff;
+  --bs-navbar-brand-color: #fff;
+  --bs-navbar-brand-hover-color: #fff;
+  --bs-navbar-toggler-border-color: rgba(255, 255, 255, .35);
+  --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.9%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+body {
+  background-color: var(--bs-body-bg);
+}
+
+.btn-primary {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #c6531f;
+  --bs-btn-border-color: #c6531f;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #9f3f18;
+  --bs-btn-hover-border-color: #9f3f18;
+  --bs-btn-active-bg: #8f3815;
+  --bs-btn-active-border-color: #8f3815;
+}
+
+.navbar-brand i,
+footer .bi-basketball-fill {
+  font-size: 1.25em;
+  vertical-align: -0.08em;
+}
+
+.card {
+  border-color: #e4cbb8;
+  border-top: 4px solid var(--bs-primary);
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: var(--bs-primary);
+  box-shadow: 0 0 0 .25rem rgba(198, 83, 31, .2);
+}
+
+img {
+  border: 3px solid rgba(33, 27, 24, .12);
+}

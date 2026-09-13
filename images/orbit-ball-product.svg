@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Orbit Ball layered construction</title>
+  <desc id="desc">A cutaway illustration of an orange basketball showing its layered printed structure.</desc>
+  <rect width="1200" height="800" fill="#dce9dd"/>
+  <path d="M0 640h1200v160H0z" fill="#355e3b"/>
+  <path d="M0 675h1200" stroke="#9ab79d" stroke-width="5" opacity=".8"/>
+  <circle cx="515" cy="380" r="230" fill="#211b18" opacity=".18"/>
+  <path d="M515 135a245 245 0 0 1 0 490c-70-105-70-385 0-490z" fill="#e4772d" stroke="#211b18" stroke-width="10"/>
+  <path d="M515 165a215 215 0 0 1 0 430c-50-95-50-335 0-430z" fill="#f2a05b" stroke="#211b18" stroke-width="7"/>
+  <path d="M515 205a175 175 0 0 1 0 350c-32-82-32-268 0-350z" fill="#fff8ed" stroke="#211b18" stroke-width="6"/>
+  <path d="M515 260a120 120 0 0 1 0 240c-16-55-16-185 0-240z" fill="#c6531f" stroke="#211b18" stroke-width="6"/>
+  <path d="M515 205V555M365 380h300" stroke="#211b18" stroke-width="8" opacity=".65"/>
+  <g font-family="Arial, sans-serif" font-size="25" fill="#211b18"><text x="830" y="280">printed outer skin</text><text x="830" y="390">flex layer</text><text x="830" y="500">tuned core</text></g>
+  <g stroke="#211b18" stroke-width="4"><path d="M690 270h120M690 380h120M690 490h120"/></g>
+</svg>

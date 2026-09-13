@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Orbit Ball on a basketball court</title>
+  <desc id="desc">A warm orange basketball floating above a stylized hardwood court with orbit lines around it.</desc>
+  <rect width="1200" height="800" fill="#f7dfc7"/>
+  <path d="M0 585h1200v215H0z" fill="#d9823d"/>
+  <path d="M0 640h1200M0 710h1200" stroke="#f6c18a" stroke-width="5" opacity=".8"/>
+  <path d="M180 585c80 85 80 145 0 215M1020 585c-80 85-80 145 0 215" fill="none" stroke="#f6c18a" stroke-width="5" opacity=".8"/>
+  <ellipse cx="600" cy="625" rx="215" ry="35" fill="#6e321f" opacity=".25"/>
+  <circle cx="600" cy="365" r="205" fill="#d85b24" stroke="#211b18" stroke-width="12"/>
+  <path d="M600 160c-40 95-40 315 0 410M395 365c100-45 310-45 410 0M460 222c70 62 210 62 280 0M460 508c70-62 210-62 280 0" fill="none" stroke="#211b18" stroke-width="11" stroke-linecap="round"/>
+  <path d="M230 265c210-180 530-190 760-20M275 485c220 155 470 165 685 20" fill="none" stroke="#355e3b" stroke-width="8" stroke-dasharray="18 20" opacity=".9"/>
+  <circle cx="600" cy="365" r="218" fill="none" stroke="#e4772d" stroke-width="3" opacity=".8"/>
+</svg>

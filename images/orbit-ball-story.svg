@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Orbit Ball prototype study</title>
+  <desc id="desc">A stylized basketball prototype with measurement marks and a notebook grid.</desc>
+  <rect width="1200" height="800" fill="#f3e8d7"/>
+  <g stroke="#d4b99e" stroke-width="2" opacity=".7"><path d="M0 120h1200M0 240h1200M0 360h1200M0 480h1200M0 600h1200M0 720h1200"/><path d="M120 0v800M240 0v800M360 0v800M480 0v800M600 0v800M720 0v800M840 0v800M960 0v800M1080 0v800"/></g>
+  <path d="M120 645h960" stroke="#211b18" stroke-width="7"/>
+  <path d="M220 645V535h160v110M840 645V535h160v110" fill="none" stroke="#355e3b" stroke-width="8"/>
+  <circle cx="600" cy="365" r="205" fill="#c6531f" stroke="#211b18" stroke-width="12"/>
+  <path d="M600 160c-42 100-42 310 0 410M395 365c100-45 310-45 410 0M458 222c72 64 212 64 284 0M458 508c72-64 212-64 284 0" fill="none" stroke="#211b18" stroke-width="11" stroke-linecap="round"/>
+  <path d="M280 365h-90M920 365h90M600 125V55M600 605v70" stroke="#e4772d" stroke-width="5"/>
+  <path d="M205 335v60M995 335v60M570 70h60M570 660h60" stroke="#e4772d" stroke-width="5"/>
+  <circle cx="600" cy="365" r="230" fill="none" stroke="#355e3b" stroke-width="5" stroke-dasharray="14 18"/>
+</svg>
